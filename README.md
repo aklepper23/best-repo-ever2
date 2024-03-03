@@ -1,2 +1,2 @@
 # best-repo-ever2
-$${\color{blue}Blue}$$
+$${\color{blue}Blue}$
